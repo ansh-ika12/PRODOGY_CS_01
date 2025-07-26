@@ -1,0 +1,42 @@
+{
+	"name": "night-pink",
+	"displayName": "Night Pink",
+	"description": "Night Pink Theme",
+	"icon": "assets/night-pink-theme-icon.png",
+	"version": "0.5.0",
+	"publisher": "SamRC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/samRC/night-pink"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"night theme",
+		"pink theme",
+		"night pink",
+		"night",
+		"pink",
+		"samrc"
+	],
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night Pink-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1748949001239,
+		"targetPlatform": "undefined",
+		"size": 201200
+	}
+}
