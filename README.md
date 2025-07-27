@@ -56,5 +56,15 @@ Example Output: hello world
 
 -Does not provide confidentiality, integrity, and authenticity in a message. 
 
+# TECHNOLOGIES USED
+
+-C Language
+
+-Visual Studio Code
+
+-Command Line Interface(CLI)
+
+-Git and GitHub
+
 # CONCLUSION
 The Caesar Cipher, with its straightforward approach of shifting letters, serves as an excellent introduction to the world of cryptography. While it is easy to understand and implement, its simplicity also makes it vulnerable to basic attacks. Despite these limitations, the Caesar Cipher’s historical role is significant, it represents the early efforts to secure communication and has made the way for the more advanced encryption methods used today. Understanding the Caesar Cipher helps us appreciate the evolution of cryptographic techniques and the ongoing quest to protect information in our digital age.
